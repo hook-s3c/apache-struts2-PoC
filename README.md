@@ -9,5 +9,12 @@ Exploit Reference: https://github.com/rapid7/metasploit-framework/issues/8064
 
 
 ---------------------------------
-reference for CVE-2017-9791;
+
+## Extending for CVE-2017-9791 (notes from hook);
+
+resource;
 http://pentestit.com/apache-struts2-showcase-remote-code-execution-s2-048/
+
+bit of confusion when I found the original exploit_S2-048.py in the source upon first commit, but still publishing this as it reintroduces windows' platform check in the payload.
+
+thanks to piesecurity for providing the Dockerfile for setting up the lab, now moving on to CVE-2018-11776.
