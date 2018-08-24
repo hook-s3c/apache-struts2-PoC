@@ -17,4 +17,7 @@ http://pentestit.com/apache-struts2-showcase-remote-code-execution-s2-048/
 
 bit of confusion when I found the original exploit_S2-048.py in the source upon first commit, but still publishing this as it reintroduces windows' platform check in the payload.
 
-thanks to piesecurity for providing the Dockerfile for setting up the lab, now moving on to CVE-2018-11776.
+thanks to piesecurity for providing the Dockerfile for setting up the lab
+
+## PoC now available for CVE-2018-11776;
+https://github.com/hook-s3c/CVE-2018-11776-Python-PoC
