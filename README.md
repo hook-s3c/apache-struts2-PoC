@@ -1,4 +1,4 @@
-# apache-struts2 CVE-2017-5638, CVE-2017-9791
+# apache-struts2 CVE-2017-5638, CVE-2017-9791, CVE-2018-11776
 Demo Application and Exploit
 
 Sample Apache Struts2 App 
